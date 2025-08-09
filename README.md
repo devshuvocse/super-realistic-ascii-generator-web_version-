@@ -41,7 +41,7 @@ Make sure you have Node.js and pnpm (or npm/yarn) installed on your system.
     ```
     **OR** copy the link and paste it into your terminal:
     ```bash
-    git clone https://github.com/devshuvocse/super-realistic-ascii-generator(web_version)
+    git clone https://github.com/devshuvocse/super-realistic-ascii-generator-web_version-.git
     ```
 
 2.  **Navigate to the project directory**:
