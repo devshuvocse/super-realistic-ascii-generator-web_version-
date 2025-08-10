@@ -17,6 +17,11 @@ Transform your images into stunning, super realistic ASCII art directly in your 
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the Super Realistic ASCII Art Generator web version locally.
+**There is a dummy version for this repo but more advence for android. If you want then have a try.**
+**Browse**
+```bash
+https://drive.google.com/drive/folders/1qG7-O3CtwN7w4WOOBa2q15m4RDEKVEy4?usp=drive_link
+```
 
 ### Prerequisites
 
